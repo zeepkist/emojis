@@ -10,11 +10,11 @@ All emojis uploaded to this repository must:
 
 - Be in **PNG** format.
 - Have a resolution of **512x512 pixels** or larger to ensure quality.
-- Be explicitly licensed under the **Public Domain**, allowing free use, modification and distribution.
+- Be explicitly licensed under the **Public Domain (CC0)**, allowing free use, modification and distribution.
 
 ## Rights and Usage
 
-By contributing to this repository, you agree to give Yannic Geurts, the creator of Zeepkist, full rights to use these emojis in the game or any related projects.
+By contributing to this repository, you agree to give Yannic Geurts, the creator of Zeepkist, full rights to use these emojis in the game or any related projects under the CC0 license.
 
 ## Contributing
 
