@@ -19,7 +19,13 @@ By contributing to this repository, you agree to give Yannic Geurts, the creator
 Want to contribute your own Zeepkist-themed emoji? Great! Here’s how:
 
 - Ensure your emoji is Zeepkist-inspired.
-- Submit a PNG file that meets the size and quality requirements.
+- Submit a PNG file that meets the size and quality requirements with the following folder structure:
+  - Optionally, include an `author.txt` file containing your Username if you want attribution for your emoji contribution 
+  ```
+  +- MyEmojiName
+     +- MyEmojiName.png (required)
+     +- author.txt (optional)
+  ```
 - Include a statement confirming that your contribution is released under the Public Domain.
 
 Submit a pull request, and your emoji will be reviewed for addition!
