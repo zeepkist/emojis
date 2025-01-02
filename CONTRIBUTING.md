@@ -22,8 +22,9 @@ to raise Pull Requests is recommended.
        +- author.txt
   	```
 8. Commit your changes https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop
-9. Create a Pull Request: https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop#creating-a-pull-request
-
+9. Create a Pull Request from your fork: https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop#creating-a-pull-request
+10. Accept the conditions in the Pull Request body.
+11. Your Pull Request will be reviewed and merged if the conditions are met.
 
 ## With Git
 
