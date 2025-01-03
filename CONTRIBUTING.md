@@ -5,6 +5,12 @@
 New to GitHub? If you're not familiar with terminal commands, using GitHub Desktop
 to raise Pull Requests is recommended.
 
+## Video Tutorial on Uploading an Emoji
+
+A short tutorial on using GitHub Desktop to upload an emoji to the Zeepkist Emojis repository:
+
+https://www.youtube.com/watch?v=Z4JLva1u39g
+
 ## With GitHub Desktop
 
 1. Download GitHub Desktop: https://desktop.github.com/download/
